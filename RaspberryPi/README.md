@@ -2,7 +2,12 @@
 
 - libffi-dev
 - libssl-dev
+- libjpeg-dev
+- _bz2 _curses readline _sqlite3 _lzma
 - pyenv install 3.11
+- pip3 install pillow
+- pip3 install git+https://github.com/notro/pydrm.git
+
 
 ```txt
 OS: Raspbian GNU/Linux 11 (bullseye) armv7l
