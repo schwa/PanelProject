@@ -1,6 +1,9 @@
 import asyncio
 import random
 from gui import *
+import sys
+
+print(sys.version)
 
 screen = Screen()
 
