@@ -7,6 +7,7 @@
 - pyenv install 3.11
 - pip3 install pillow
 - pip3 install git+https://github.com/notro/pydrm.git
+- pip3 install evdev
 
 
 ```txt
