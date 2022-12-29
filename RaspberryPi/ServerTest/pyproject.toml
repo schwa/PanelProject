@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "servertest"
+version = "0.1.0"
+description = ""
+authors = ["Jonathan Wight <jwight@mac.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+websockets = "^10.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
